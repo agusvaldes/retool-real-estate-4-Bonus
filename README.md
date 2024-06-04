@@ -62,7 +62,7 @@ This project is a Retool application that scrapes real estate listings from Real
     - Add an HTTP request resource that points to your ngrok URL (e.g., `https://your-ngrok-url.ngrok.io/scrape/{{input1.value}}`).
     - Set up the UI components to prompt for zip code and filters, and display the results in a table.
 
-![Retool App](/a/la/imagen.extensión)
+![Retool App](https://github.com/agusvaldes/retool-real-estate-4-Bonus/blob/main/Img%20project/app_retool.png?raw=true)
 
 ## Usage
 
