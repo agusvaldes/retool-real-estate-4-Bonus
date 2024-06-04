@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 
 const PORT = process.env.PORT || 3000;
-const SCRAPER_API_KEY = process.env.SCRAPER_API_KEY;
+const SCRAPER_API_KEY = process.env.SCRAPER_API_KEY || "your_api_key";
 
 app.get('/', (req, res) => {
   res.send('Welcome to the Realtor.com Scraper API. Use the /scrape/:zipCode endpoint.');
