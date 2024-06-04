@@ -2,6 +2,8 @@
 
 This project is a Retool application that scrapes real estate listings from Realtor.com based on user-entered zip codes. The app allows users to filter the results by price, number of bedrooms, and bathrooms. It utilizes ScraperAPI for data extraction and ngrok to provide a public URL for local development.
 
+![Retool App](https://github.com/agusvaldes/retool-real-estate-4-Bonus/blob/main/Img%20project/app_retool.png?raw=true)
+
 ## Features
 
 - Prompt users to enter a zip code
