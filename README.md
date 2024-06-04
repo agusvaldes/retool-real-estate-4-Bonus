@@ -169,4 +169,5 @@ app.listen(PORT, () => {
 ```
 ## Video Demo
 Link to the video demo - [Video](https://www.loom.com/share/349e038c7d3546059d96c55c3dbfa778?sid=3d517a1b-00bb-484d-b7e5-63a488114c21)
+
 Feel free to replace placeholder values like the repository URL, ScraperAPI key, and video demo link with the actual values for your project.
